@@ -1,1 +1,2 @@
-# mysite3
+#Django server naming application
+
